@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-* 🌍  I'm based in Python, C, Java, HTML, CSS.
+* 🌍  I'm based in Python, C, HTML, CSS.
 * ✉️  You can contact me at [saydaliev.com6565@gmail.com](mailto:saydaliev.com6565@gmail.com)
 
 ### Skills
